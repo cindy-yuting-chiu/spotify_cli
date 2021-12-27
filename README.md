@@ -1,4 +1,4 @@
-# spotify_cli 
+# Spotify Command-line Tool
 ## Intro
 This project is based on the documentation from Spotify Web API. https://developer.spotify.com/documentation/web-api/ The tool is built using Python and click framework. 
 The end goal is to create a simple command line tool that user can retrieve the most popular 10 songs for a particular artist listed in Spotify. 
